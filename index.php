@@ -48,7 +48,7 @@ require_once("geradorPiadas.php");
 					<form>
 						<div class="input-group mb-3">
 							<cite>
-								<?= $dados["value"] ?>;
+								<?= $dados["value"] ?>
 							</cite>
 						</div>
 						<div class="d-flex justify-content-center mt-3 login_container">
