@@ -1,0 +1,4 @@
+function recarregar() {
+    location.reload();
+
+}
